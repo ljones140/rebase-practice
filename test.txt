@@ -1,2 +1,4 @@
 monkey
 human
+pig
+cow
