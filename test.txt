@@ -6,3 +6,12 @@ love_gorilla
 love_ape
 love_primate
 love_chimp
+love_banana_eaters
+love_cat
+love_grumpy
+love_lion
+love_panther
+donkey
+horse
+zebra
+rhino
