@@ -1,0 +1,8 @@
+foo
+bar
+baz
+love_monkey
+love_gorilla
+love_ape
+love_primate
+love_chimp
